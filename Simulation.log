@@ -1,0 +1,15 @@
+LTspice 24.1.9 for Windows
+Circuit: C:\Work\PCB\hw_uni02_pwm_generator\Simulation.net
+Start Time: Mon Jun 30 08:43:06 2025
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.152 seconds.
+
+Files loaded:
+C:\Work\PCB\hw_uni02_pwm_generator\Simulation.net
+C:\Users\bartosz.markiewicz\AppData\Local\LTspice\lib\sub\NE555.sub
+
