@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C2",0603,2,10n,
+C3,CP_Elec_5x5.9,1,1uF,
+J1,PCB_edge 3 pin,1,Przewód turbinki ze sterownika,
+"J3, J4",Connector_6.3mm,2,Conn_01x01,
+"R1, R2",0603,2,10k,
+U1,SOIC-8_3.9x4.9mm_P1.27mm,1,NE555D,
